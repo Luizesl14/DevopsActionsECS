@@ -80,7 +80,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2025-07-04T01:53:37.004Z",
-    "registeredBy": "arn:aws:iam::065468334997:root",
-    "enableFaultInjection": false,
+    "registeredBy": "arn:aws:iam::065468334997:root"
     "tags": []
 }
